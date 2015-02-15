@@ -1,0 +1,13 @@
+(dp1
+S'score'
+p2
+I98
+sS'addr'
+p3
+S'beijing'
+p4
+sS'name'
+p5
+S'Mjq'
+p6
+s.
